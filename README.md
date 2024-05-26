@@ -24,6 +24,6 @@
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* I want to figure out a better way to use and change variable values in React Native.
+* I want to make the front end look better and find out how to center everything on the screen.
+* I would like to find a way to save the data that the user inputs so that they can come back to it later.
